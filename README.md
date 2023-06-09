@@ -151,12 +151,6 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 
-![image](https://github.com/kannan0071/MAD-Ex.No-5/assets/119641638/11a53807-3225-4d7b-a5ca-6c611e750438)
-
-![image](https://github.com/kannan0071/MAD-Ex.No-5/assets/119641638/ba23156d-0d19-4be6-a635-7d5528ccac19)
-
-![Screenshot 2023-05-27 141008](https://github.com/kannan0071/MAD-Ex.No-5/assets/119641638/800ce4d6-2d7d-410a-9da9-25058503215d)
-
 ![WhatsApp Image 2023-05-27 at 13 58 20](https://github.com/kannan0071/MAD-Ex.No-5/assets/119641638/53fb45ef-ba56-46d2-b24d-4cb5e4c33b96)
 
 !![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/07ea2207-a2d8-494d-b9e3-e579f308a3d1)
